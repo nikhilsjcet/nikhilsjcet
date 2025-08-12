@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Nikhil Saju!
+<center># Hi there 👋, I'm Nikhil Saju!
 
 <p>I'm currently studying <strong>Computer Science Engineering</strong> at <strong>SJCET, Palai</strong>. I am working on some side projects 💡, learning a couple new dishes 🍳, and trying to conquer the world 🌍🚀.</p>
 - 🌱 Currently learning: **Java** and ** C**
@@ -78,6 +78,4 @@
     src="https://raw.githubusercontent.com/Jacob-droid-crypto/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
-
----
-[![](https://visitcount.itsvg.in/api
+</center>
