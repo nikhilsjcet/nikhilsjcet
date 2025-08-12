@@ -1,6 +1,6 @@
-<center>
- # Hi there 👋, I'm Nikhil Saju!
 
+ # Hi there 👋, I'm Nikhil Saju!
+<center>
 <p>I'm currently studying <strong>Computer Science Engineering</strong> at <strong>SJCET, Palai</strong>. I am working on some side projects 💡, learning a couple new dishes 🍳, and trying to conquer the world 🌍🚀.</p>
 - 🌱 Currently learning: **Java** and ** C**
 - 💻 Exploring: **Web Development** and **Artificial Intelligence**
