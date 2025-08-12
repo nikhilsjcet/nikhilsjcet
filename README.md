@@ -15,7 +15,7 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
-<img align="right" src="[https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif](https://media.licdn.com/dms/image/v2/D5603AQGuL2ONBJcdLA/profile-displayphoto-shrink_200_200/B56ZXORDdUHQAY-/0/1742922334050?e=2147483647&v=beta&t=EYGoiJFIo5sbF3V50CDv6K_tFliNgQ3TxTlnVK3IsRk)" />
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif](https://media.licdn.com/dms/image/v2/D5603AQGuL2ONBJcdLA/profile-displayphoto-shrink_200_200/B56ZXORDdUHQAY-/0/1742922334050?e=2147483647&v=beta&t=EYGoiJFIo5sbF3V50CDv6K_tFliNgQ3TxTlnVK3IsRk)](https://media.licdn.com/dms/image/v2/D5603AQGuL2ONBJcdLA/profile-displayphoto-shrink_200_200/B56ZXORDdUHQAY-/0/1742922334050?e=2147483647&v=beta&t=EYGoiJFIo5sbF3V50CDv6K_tFliNgQ3TxTlnVK3IsRk" />
 
 ### 🧰 Tools & Frameworks  
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
