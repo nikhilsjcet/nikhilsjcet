@@ -44,7 +44,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nikhilsjcet&theme=vue-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilsjcet&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1500"/>
+<img src="[https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif](https://media.licdn.com/dms/image/v2/D5603AQGuL2ONBJcdLA/profile-displayphoto-shrink_200_200/B56ZXORDdUHQAY-/0/1742922334050?e=2147483647&v=beta&t=EYGoiJFIo5sbF3V50CDv6K_tFliNgQ3TxTlnVK3IsRk)" width="1500"/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=nikhilsjcet&theme=radical&no-frame=false&no-bg=false&margin-w=4)
